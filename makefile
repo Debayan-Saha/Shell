@@ -1,0 +1,2 @@
+desh: exit.c main.c commands.c pwd.c cd.c echo.c repeat.c ls.c execvp.c pinfo.c history.c pipe.c jobs.c
+	gcc -ggdb -o desh exit.c main.c commands.c pwd.c cd.c echo.c repeat.c ls.c execvp.c pinfo.c history.c pipe.c jobs.c
